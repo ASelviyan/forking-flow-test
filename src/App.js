@@ -4,7 +4,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-        <h1>Hello from Davinci Coders ヾ(⌐■_■)ノ♪</h1>
+      <h1>Hello from Davinci Coders ヾ(⌐■_■)ノ♪</h1>
+      <Name />
     </div>
   );
 }
