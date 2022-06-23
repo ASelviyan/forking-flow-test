@@ -1,4 +1,4 @@
-export default function Name() {
+export default function Angelika() {
     return (
         <>
             <h1>Angelika</h1>
