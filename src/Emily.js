@@ -5,6 +5,7 @@ export default function Emily() {
     <div>
         <h1>Emily</h1>
         <img src='https://wl-brightside.cf.tsp.li/resize/728x/jpg/e54/e78/30a24451a8ba30d37a3dfa888c.jpg' alt='funny car pic'/>
+        <p>Hello. I live in Portland and I like cats and video games.</p>
     </div>
   )
 }
