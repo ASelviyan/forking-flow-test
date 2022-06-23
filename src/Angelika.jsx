@@ -3,6 +3,7 @@ export default function Angelika() {
         <>
             <h1>Angelika</h1>
             <p>😎</p>
+            <p>BIO: About my self</p>
         </>
     )
 }
